@@ -13,13 +13,16 @@ This is a simple user management React application that integrates with the Reqr
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page]![Screenshot (279)](https://github.com/user-attachments/assets/ba2885a3-4e1b-41f0-b8f2-4af669eeece8)
+
 
 ### 👥 Users List
-![Users List](screenshots/users.png)
+![Users List]![Screenshot (277)](https://github.com/user-attachments/assets/6989438f-9a8b-426e-8bec-b5ef43afb994)
+
 
 ### ✏️ Edit User
-![Edit User](screenshots/edit.png)
+![Edit User]![Screenshot (278)](https://github.com/user-attachments/assets/904a8159-dbc9-4964-a1fb-f064c7067329)
+
 
 ## 📂 Project Structure
 
